@@ -1,1 +1,1 @@
-this is a Ruby on Rails friends list app
+A Ruby on Rails friends list app
